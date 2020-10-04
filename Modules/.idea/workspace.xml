@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7aaedbf-ad5f-4d4c-859f-d38a2b3fdc4e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bhLCaUCpQfvwGXHXdymcxacKKs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../oop" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.external_mod">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Modules" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ASUS\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="external_mod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Modules" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/external_mod.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.external_mod" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.external_mod" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7aaedbf-ad5f-4d4c-859f-d38a2b3fdc4e" name="Default Changelist" comment="" />
+      <created>1589079251913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589079251913</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="78" key="#Inspections" timestamp="1589080278570">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="78" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1589080278570" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589079569885">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1589079569885" />
+    <state x="221" y="175" key="FileChooserDialogImpl" timestamp="1589123073861">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="221" y="175" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1589123073861" />
+    <state width="1516" height="629" key="GridCell.Tab.0.bottom" timestamp="1589108617290">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1516" height="629" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589108617290" />
+    <state width="1516" height="629" key="GridCell.Tab.0.center" timestamp="1589108617290">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1516" height="629" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589108617290" />
+    <state width="1516" height="629" key="GridCell.Tab.0.left" timestamp="1589108617280">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1516" height="629" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589108617280" />
+    <state width="1516" height="629" key="GridCell.Tab.0.right" timestamp="1589108617290">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1516" height="629" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589108617290" />
+    <state width="746" height="238" key="GridCell.Tab.1.bottom" timestamp="1589096244311">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="238" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589096244311" />
+    <state width="746" height="238" key="GridCell.Tab.1.center" timestamp="1589096244311">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="238" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1589096244311" />
+    <state width="746" height="238" key="GridCell.Tab.1.left" timestamp="1589096244311">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="238" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1589096244311" />
+    <state width="746" height="238" key="GridCell.Tab.1.right" timestamp="1589096244311">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="238" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1589096244311" />
+    <state x="292" y="59" key="SettingsEditor" timestamp="1589080047141">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="292" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1589080047141" />
+  </component>
+</project>
