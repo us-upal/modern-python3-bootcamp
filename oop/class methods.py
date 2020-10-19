@@ -15,7 +15,8 @@ class User:
         self.lname = lname
         self.age = age
         User.active_user += 1
-
+    def __repr__(self):
+        return f"{self.fname}"
 
 
     def logged_in(self):
